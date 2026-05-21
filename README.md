@@ -69,14 +69,14 @@ I'm **Huseyn Huseynov**, a backend developer from **Baku, Azerbaijan** 🇦🇿 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huseynov-huseyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseynov-huseyn&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Huseynov-Huseyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseynov-Huseyn&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huseynov-huseyn&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Huseynov-Huseyn&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
