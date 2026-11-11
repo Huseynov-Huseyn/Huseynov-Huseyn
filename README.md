@@ -1,6 +1,7 @@
 # Hi, I'm Huseyn 👋
 
 **Full-stack developer → aspiring Machine Learning Engineer**
+
 Based in Baku, Azerbaijan 🇦🇿
 
 I build and run [IdareEt](https://idareet.com), a multi-tenant ERP and accounting system.
@@ -30,11 +31,7 @@ Now I'm going deeper into Python and machine learning, with the goal of becoming
 - [ ] Machine learning with Scikit-learn
 - [ ] Deep learning (PyTorch)
 
-## 📊 GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Huseynov-Huseyn&show_icons=true&theme=dark)
-
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseynhuseynov-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[huseynhuseyn343@gmail.com])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseynhuseyn343@gmail.com)
